@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@blueberry_muffins/ordinal_suffix": "^1.0.0"
+  }
+}
